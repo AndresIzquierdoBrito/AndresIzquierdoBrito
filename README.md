@@ -44,9 +44,9 @@
 ### GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=cobalt&hide_border=true" alt="GitHub Streak" />
-</div>  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndresIzquierdoBrito&layout=compact&langs_count=8&theme=cobalt&hide_border=true" alt="Top languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=cobalt&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=cobalt)
 
 ---
 
