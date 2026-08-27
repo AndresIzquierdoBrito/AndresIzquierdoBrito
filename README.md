@@ -44,10 +44,12 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=cobalt&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndresIzquierdoBrito&theme=cobalt&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=cobalt)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndresIzquierdoBrito&theme=cobalt)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndresIzquierdoBrito&theme=onedark&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+</div>
 ---
 
 <div align="center">
