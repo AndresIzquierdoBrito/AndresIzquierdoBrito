@@ -1,16 +1,60 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=240&section=header&text=Andr%C3%A9s%20Izquierdo&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Software%20developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Andrés Izquierdo banner"/>
+</div>
 
-<!--
-**AndresIzquierdoBrito/AndresIzquierdoBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14b8a6&center=true&vCenter=true&width=640&lines=%22Beauty%20is%20the%20harmony%20of%20function%20and%20form.%22%20A.%20Alto)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresizbri/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andres@izbri.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://www.linkedin.com/in/andresizbri/)
+
+![Working @ DST](https://img.shields.io/badge/%F0%9F%9F%A2%20Working%20%40%20DST-14b8a6?style=flat-square) ![London ⋅ UTC+1](https://img.shields.io/badge/London%20%E2%8B%85%20UTC%2B1-333?style=flat-square)
+
+</div>
+
+### About
+
+- ⌖ **Location** · Tenerife, Spain
+- ⌗ **Experience** · 2+ years
+- ◎ **Education** · CIFP César Manrique in Web Development / Software Engineering @  Universitat Oberta de Catalunya (UOC)
+- ⟳ **Learning** · Electron / Three.js / .NET
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs,java&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=express,fastapi,spring,postgres,redis,nodejs&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux,figma,githubactions&theme=dark" alt="DevOps & Cloud"/>
+
+### Languages
+- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
+- 🇪🇸 **Spanish** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AndresIzquierdoBrito&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&hide_border=true" alt="Andrés Izquierdo stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresIzquierdoBrito&layout=compact&langs_count=8&theme=cobalt&hide_border=true" alt="Andrés Izquierdo top languages"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/AndresIzquierdoBrito">github.com/AndresIzquierdoBrito</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer" width="100%" alt="Footer wave"/>
+
+</div>
