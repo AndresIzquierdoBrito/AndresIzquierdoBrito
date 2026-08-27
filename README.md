@@ -44,8 +44,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=cobalt&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AndresIzquierdoBrito&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AndresIzquierdoBrito&layout=compact&langs_count=8&theme=cobalt&hide_border=true" alt="Top languages"/>
 </div>
 
 ---
