@@ -16,7 +16,7 @@
 
 - ⌖ **Location** · Tenerife, Spain
 - ⌗ **Experience** · 2+ years
-- ◎ **Education** · CIFP César Manrique in Web Development / Software Engineering @  Universitat Oberta de Catalunya (UOC)
+- ◎ **Education** · CIFP César Manrique in Higher technician in Web Development / Software Engineering @ Universitat Oberta de Catalunya (UOC)
 - ⟳ **Learning** · Electron / Three.js / .NET
 
 ### Stack
@@ -52,9 +52,5 @@
 ---
 
 <div align="center">
-
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/AndresIzquierdoBrito">github.com/AndresIzquierdoBrito</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
