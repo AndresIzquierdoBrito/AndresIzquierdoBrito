@@ -17,7 +17,7 @@
 - ⌖ **Location** · Tenerife, Spain
 - ⌗ **Experience** · 2+ years
 - ◎ **Education** · CIFP César Manrique in Higher technician in Web Development / Software Engineering @ Universitat Oberta de Catalunya (UOC)
-- ⟳ **Learning** · Electron / Three.js / .NET
+- ⟳ **Learning** · AWS / Electron / .NET
 
 ### Stack
 
