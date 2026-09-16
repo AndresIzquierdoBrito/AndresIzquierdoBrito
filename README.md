@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14b8a6&center=true&vCenter=true&width=640&lines=%22Beauty%20is%20the%20harmony%20of%20function%20and%20form.%22%20A.%20Alto)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresizbri/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andres@izbri.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://www.linkedin.com/in/andresizbri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresizbri/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andres@izbri.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://www.izbri.com/)
 
 ![Working @ DST](https://img.shields.io/badge/%F0%9F%9F%A2%20Working%20%40%20DST-14b8a6?style=flat-square) ![London ⋅ UTC+1](https://img.shields.io/badge/London%20%E2%8B%85%20UTC%2B1-333?style=flat-square)
 
